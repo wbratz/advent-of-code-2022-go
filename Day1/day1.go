@@ -29,7 +29,7 @@ func Execute() {
 		}
 	}
 
-	fmt.Printf("Part 1: Max Calories are: %s\n", strconv.Itoa(maxCal))
+	fmt.Printf("Day1:\nPart 1: Max Calories are: %s\n", strconv.Itoa(maxCal))
 
 	
 	currentElf = Elf{}
